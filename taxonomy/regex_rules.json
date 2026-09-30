@@ -1,0 +1,11 @@
+[
+  {"category":"survey-taxonomy","pattern":"(?i)survey|systemati[sz]ation|taxonomy|landscape|综述|分类"},
+  {"category":"rag-memory-security","pattern":"(?i)RAG|retrieval|knowledge base|memory|poison|corruption|jamming|记忆|检索|知识库|投毒"},
+  {"category":"multi-agent-security","pattern":"(?i)multi[- ]agent|LLM-to-LLM|communication|agent-in-the-middle|infection|多智能体|多.?Agent|通信"},
+  {"category":"tool-action-security","pattern":"(?i)tool|API|code agent|code execution|sandbox|risk awareness|工具|代码执行|沙箱"},
+  {"category":"planning-long-horizon","pattern":"(?i)long[- ]horizon|planning|thought|trajectory|objective drift|backdoor|长时程|规划|轨迹|后门"},
+  {"category":"defense-architecture","pattern":"(?i)defen[cs]e|securing|guard|structured quer|instruction hierarchy|preference optimization|防御|结构化查询|指令层级"},
+  {"category":"prompt-injection","pattern":"(?i)prompt injection|instruction-following robustness|提示注入|指令遵循"},
+  {"category":"offensive-capability","pattern":"(?i)hack|exploit|cyber|offensive|漏洞利用|网络攻击"},
+  {"category":"benchmark-evaluation","pattern":"(?i)benchmark|evaluation|safety bench|基准|评测"}
+]
